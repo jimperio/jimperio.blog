@@ -12,3 +12,5 @@ DEFAULT_PAGINATION = False
 THEME = 'theme'
 
 ARTICLE_DIR = 'entries'
+
+FILES_TO_COPY = (('extras/CNAME', 'CNAME'),)
