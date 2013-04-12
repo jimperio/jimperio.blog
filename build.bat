@@ -2,4 +2,4 @@
 
 pelican content/ -o output/ -s publishconf.py
 
-python ghp-import -m "%1" output
+ghp-import -m "%1" output
