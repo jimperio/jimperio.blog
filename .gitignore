@@ -1,0 +1,8 @@
+.DS_Store
+
+output/*
+
+*.pyc
+*.pyo
+
+*.egg-info
