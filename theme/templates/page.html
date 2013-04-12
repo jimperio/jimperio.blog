@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{% endblock %}
+{% block content %}        
+<header>
+    <h1><a href="{{ SITEURL }}" id="site-title">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a> :
+        <span id="page-title">{{ page.title }}</span></h1>
+</header>
+<article>    
+    {{ page.content }}
+</article>
+{% endblock %}
