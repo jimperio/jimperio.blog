@@ -13,4 +13,5 @@ THEME = 'theme'
 
 ARTICLE_DIR = 'entries'
 
-FILES_TO_COPY = (('extras/CNAME', 'CNAME'),)
+FILES_TO_COPY = (('extras/CNAME', 'CNAME'),
+                 ('extras/.nojekyll', '.nojekyll'),)
