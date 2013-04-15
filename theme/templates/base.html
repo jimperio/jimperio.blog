@@ -28,6 +28,7 @@
         <footer>
             <nav>
                 <ul>
+                    <li><a href="{{ SITEURL }}">latest</a> ::</li>
                 {% for page in PAGES %}
                     <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>{% if not loop.last %} ::{% endif %}</li>
                 {% endfor %}
