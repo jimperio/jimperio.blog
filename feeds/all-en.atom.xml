@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>momeng</title><link href="http://jimperio.com/" rel="alternate"></link><link href="http://jimperio.com/feeds/all-en.atom.xml" rel="self"></link><id>http://jimperio.com/</id><updated>2013-09-27T00:00:00+08:00</updated><entry><title>Island Vacation</title><link href="http://jimperio.com/island-vacation.html" rel="alternate"></link><updated>2013-09-27T00:00:00+08:00</updated><author><name>Jomel Imperio</name></author><id>tag:jimperio.com,2013-09-27:island-vacation.html</id><summary type="html">&lt;p&gt;Part 1 (2012)&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>momeng</title><link href="http://jimperio.com/" rel="alternate"></link><link href="http://jimperio.com/feeds/all-en.atom.xml" rel="self"></link><id>http://jimperio.com/</id><updated>2015-01-28T00:00:00+08:00</updated><entry><title>Hello (again), world</title><link href="http://jimperio.com/hello-again-world.html" rel="alternate"></link><updated>2015-01-28T00:00:00+08:00</updated><author><name>Jomel Imperio</name></author><id>tag:jimperio.com,2015-01-28:hello-again-world.html</id><summary type="html">&lt;p&gt;I am severely out of blogging shape, but the first step is always the hardest.&lt;/p&gt;
+&lt;p&gt;Hello, 2015, let's kick ass! It's time to finally do the things I've wanted to do for so long:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn to drive&lt;/li&gt;
+&lt;li&gt;Work on side-projects (a toy project using Phaser is up at GitHub: &lt;a href="http://jimperio.github.io/speedy-spin"&gt;game&lt;/a&gt;, &lt;a href="https://github.com/jimperio/speedy-spin"&gt;source&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Learn a new (programming) language (giving &lt;a href="http://learnyouahaskell.com/"&gt;Learn You a Haskell&lt;/a&gt; another try)&lt;/li&gt;
+&lt;li&gt;Learn to swim&lt;/li&gt;
+&lt;li&gt;Write and blog regularly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I need to remember: it's just about continuing to move forward, bit by bit, every day.&lt;/p&gt;</summary></entry><entry><title>Island Vacation</title><link href="http://jimperio.com/island-vacation.html" rel="alternate"></link><updated>2013-09-27T00:00:00+08:00</updated><author><name>Jomel Imperio</name></author><id>tag:jimperio.com,2013-09-27:island-vacation.html</id><summary type="html">&lt;p&gt;Part 1 (2012)&lt;/p&gt;
 &lt;p&gt;It rained again today.&lt;br /&gt;
 Sand's less white than beige&lt;br /&gt;
 and not quite fine&lt;br /&gt;
