@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>momeng</title><link href="http://jimperio.com/" rel="alternate"></link><link href="http://jimperio.com/feeds/all.atom.xml" rel="self"></link><id>http://jimperio.com/</id><updated>2015-01-28T00:00:00+08:00</updated><entry><title>Hello (again), world</title><link href="http://jimperio.com/hello-again-world.html" rel="alternate"></link><updated>2015-01-28T00:00:00+08:00</updated><author><name>Jomel Imperio</name></author><id>tag:jimperio.com,2015-01-28:hello-again-world.html</id><summary type="html">&lt;p&gt;I am severely out of blogging shape, but the first step is always the hardest.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>momeng</title><link href="http://jimperio.com/" rel="alternate"></link><link href="http://jimperio.com/feeds/all.atom.xml" rel="self"></link><id>http://jimperio.com/</id><updated>2015-05-13T00:00:00+08:00</updated><entry><title>Housekeeping</title><link href="http://jimperio.com/housekeeping.html" rel="alternate"></link><updated>2015-05-13T00:00:00+08:00</updated><author><name>Jomel Imperio</name></author><id>tag:jimperio.com,2015-05-13:housekeeping.html</id><summary type="html">&lt;p&gt;It's again been too long since I've updated here, but late is better than never! &lt;/p&gt;
+&lt;p&gt;I've recently been more consciously working on my software development skills and portfolio (probably the subject of another entry entirely), so I revisited this blog and cleaned up and updated the backend a little.&lt;/p&gt;
+&lt;p&gt;Let's see how I've fared on the goals in &lt;a href="http://jimperio.com/hello-again-world.html"&gt;my last post&lt;/a&gt;!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning to drive - No progress. License is still expired and missing, and I still need to get more informal practice before applying for a license (and taking the exam) again.&lt;/li&gt;
+&lt;li&gt;Side projects - I haven't started any new ones, and I've more or less gotten bored with the Phaser game. I might pick that up again, but I'm now leaning towards starting a project in Python instead!&lt;/li&gt;
+&lt;li&gt;Learning a new programming language - Haskell has been fun and I'm continuing to work on exercises, putting up my answers &lt;a href="https://github.com/jimperio/haskell-exercises"&gt;here&lt;/a&gt;. I'm also considering starting a small project in C.&lt;/li&gt;
+&lt;li&gt;Learning to swim - Sadly, we've moved out of White Plains and no longer have easy access to a swimming pool.&lt;/li&gt;
+&lt;li&gt;Write and blog regularly - heh.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It pays to keep in mind: just keep moving forward!&lt;/p&gt;</summary></entry><entry><title>Hello (again), world</title><link href="http://jimperio.com/hello-again-world.html" rel="alternate"></link><updated>2015-01-28T00:00:00+08:00</updated><author><name>Jomel Imperio</name></author><id>tag:jimperio.com,2015-01-28:hello-again-world.html</id><summary type="html">&lt;p&gt;I am severely out of blogging shape, but the first step is always the hardest.&lt;/p&gt;
 &lt;p&gt;Hello, 2015, let's kick ass! It's time to finally do the things I've wanted to do for so long:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Learn to drive&lt;/li&gt;
