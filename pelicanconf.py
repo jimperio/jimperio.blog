@@ -11,7 +11,10 @@ DEFAULT_PAGINATION = False
 
 THEME = 'theme'
 
-ARTICLE_DIR = 'entries'
+ARTICLE_PATHS = ['entries']
 
-FILES_TO_COPY = (('extras/CNAME', 'CNAME'),
-                 ('extras/.nojekyll', '.nojekyll'),)
+STATIC_PATHS = ['extras']
+EXTRA_PATH_METADATA = {
+  'extras/CNAME': {'path': 'CNAME'},
+  'extras/.nojekyll': {'path': '.nojekyll'},
+}

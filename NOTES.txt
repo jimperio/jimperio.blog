@@ -1,10 +1,5 @@
-1) Pelican 3.1.1 is the latest package, but it does not yet include support for the override attributes 'url' and 'save_as', so just install the latest from source [1] for now.
+1) There's a weird issue with locale.getlocale() on OS X, and having an invalid encoding returned causes some issues with Pelican. A quick fix is to just set the LANG environment variable to, say, "en_US.UTF-8".
 
-This fork of Pelican also fixes an issue with relative URLs on Windows. (pull request pending)
+2) The ghp-import package doesn't install well on Windows, as it uses a directly-executable script. The fork at [1] modifies the setup to generate console scripts instead.
 
-2) There's a weird issue with locale.getlocale() on OS X, and having an invalid encoding returned causes some issues with Pelican. A quick fix is to just set the LANG environment variable to, say, "en_US.UTF-8".
-
-3) The ghp-import package doesn't install well on Windows, as it uses a directly-executable script. The fork at [2] modifies the setup to generate console scripts instead.
-
-[1] https://github.com/jimperio/pelican
-[2] https://github.com/jimperio/ghp-import
+[1] https://github.com/jimperio/ghp-import

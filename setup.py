@@ -2,13 +2,13 @@ from setuptools import setup
 
 def main():
   setup(name='jimperio.blog',
-        version='0.9.1',
+        version='0.9.2',
         install_requires=[
-        									# See NOTES.txt regarding pelican and ghp-import.
-			                    #'pelican >= 3.1.1',
-                          'Markdown',
-                          #'ghp-import',
-                         ],)
+          'pelican==3.5.0',
+          'Markdown',
+          # See NOTES.txt. Use the included submodule.
+          #'ghp-import',
+        ],)
 
 if __name__ == "__main__":
   main()
