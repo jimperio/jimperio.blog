@@ -2,4 +2,4 @@
 
 pelican content/ -o output/ -s publishconf.py
 
-ghp-import -m "%~1" output
+if not "%1" == "" (ghp-import -m "%~1" output)
